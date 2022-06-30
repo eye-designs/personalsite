@@ -75,7 +75,7 @@ header .social-nav {
   background-color: #77A8B1;
 }
 
-section.about {
+
   padding: 4em 2em 2em 2em;
 }
 
@@ -98,7 +98,7 @@ section.about p {
 
 .project {
   display: block;
-  width: 286px;
+  width: 100%;
   background: red;
   margin-bottom: 20px;
   height: 200px;
