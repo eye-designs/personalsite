@@ -20,7 +20,7 @@ header {
   justify-content: center;
   align-items: center;
   width: 100vw;
-  background-color: green;
+  background-color: teal;
   height: 275px;
 }
 
@@ -75,7 +75,7 @@ header .social-nav {
   background-color: #77A8B1;
 }
 
-
+section.about {
   padding: 4em 2em 2em 2em;
 }
 
@@ -98,7 +98,7 @@ section.about p {
 
 .project {
   display: block;
-  width: 100%;
+  width: 286px;
   background: red;
   margin-bottom: 20px;
   height: 200px;
